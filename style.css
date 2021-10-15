@@ -1,0 +1,97 @@
+body {
+    background: url(https://www.ixpap.com/images/2021/03/desktop-naruto-wallpaper-ixpap.jpg);
+}
+#b {
+padding-left: 40%;
+}
+#link {
+    color: aliceblue;
+         padding-right: 50%;
+         text-align: center;
+}
+#ind {
+    background: url(https://www.ixpap.com/images/2021/03/desktop-naruto-wallpaper-ixpap.jpg);
+    border-style: solid;
+    border-radius: 5%;
+    border-color: darkred;
+    padding-left: 10%;
+}
+#key {
+    color: aliceblue;
+}
+
+#big {
+border-radius: 20px;
+margin: 300px;
+height: 50px;
+width: 80px;
+background: url(sasuke-shipudden.gif);
+color: aliceblue;
+padding-left: 0%;
+border-style: solid;
+border-color: black;
+}
+#gib {
+    background: url(shippuden.jpg);
+    border-color: beige;
+    padding-top: 5%;
+    padding-left: 25%;
+    padding-right: 20%;
+    padding-bottom: 15%;
+    border-radius: 10%;
+}
+#kokoa {
+    color: Black;
+    font-style: inherit;
+    font-size: 200%;
+}
+#igb {
+    background: url(https://www.allcenter.com.br/wp-content/uploads/2017/06/1304.jpg);
+    border-style: solid;
+    border-color: beige;
+    padding-top: 5%;
+    padding-left: 33%;
+    padding-right: 10%;
+    padding-bottom: 15%;
+    border-radius: 10%;
+}
+#kiba {
+    color: white;
+    font-style: inherit;
+    font-size: 250%;
+
+}
+#gbi {
+    background: url(https://dgamerenerd.com.br/wp-content/uploads/2021/02/71upvIrs3nL._AC_SL1500_.jpg   );
+    padding-left: 33%;
+    padding-bottom: 15%;
+    padding-right: 10%;
+    padding-top: 5%;
+    border-radius: 10%;
+    border-color: beige;
+}
+#ka {
+font-size: 250%;
+color: black;
+}
+
+big {
+    color: white;
+    font-size: 50px;
+}
+#furicp {
+    background: url(kuraminha.png);
+    padding-left: 5%;
+    padding-bottom: 10%;
+    padding-right: 10%;
+    padding-top: 5%;
+    border-radius: 10%;
+}
+#buracp {
+    color: white;
+    padding-left: 33%;
+    font-size: 150%;
+}
+#h {
+    color: black;
+}
